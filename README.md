@@ -1,1 +1,1 @@
-# -CS188_Artificial-Intelligence-Berkeley
+# CS188_Artificial-Intelligence-Berkeley
