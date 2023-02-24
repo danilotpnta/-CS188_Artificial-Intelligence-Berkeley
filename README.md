@@ -15,4 +15,10 @@ Pacman faces the ghost using Reflex Agent, MiniMax, Alpha-Beta Pruning and Expec
 
 Final grades: Total: 26/25. (+1 due to extra point for heuristics that managed to score above the threshold)
 
+### Project 3: MDPs and Reinforcement Learning 
 
+##### Link to assignment: [See Official Site](https://inst.eecs.berkeley.edu/~cs188/sp22/project3/)
+
+Develop a PacMan agent using reinforcement learning
+
+Final grades: Total: 24/25.
