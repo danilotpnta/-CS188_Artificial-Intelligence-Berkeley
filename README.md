@@ -17,8 +17,8 @@ Final grades: Total: 26/25. (+1 due to extra point for heuristics that managed t
 
 ### Project 3: MDPs and Reinforcement Learning 
 
-##### Link to assignment: [See Official Site](https://inst.eecs.berkeley.edu/~cs188/sp22/project3/)
+##### Link to assignment: [See Official Site](https://inst.eecs.berkeley.edu/~cs188/sp22/project6/)
 
-Develop a PacMan agent using reinforcement learning
+Implement Value Function, Q learning, and Approximate Q learning to help pacman and crawler agents learn rational policies
 
 Final grades: Total: 24/25.
